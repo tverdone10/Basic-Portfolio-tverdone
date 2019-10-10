@@ -33,8 +33,9 @@ body{
     color: grey;
 }
 
-.navbar a:hover{
-}
+/* .navbar a:hover{  
+    background-color:gold
+} */
 
 .container #bio-image {
     float: left;
@@ -66,6 +67,7 @@ h2 {
     margin-left: 25px;
     color: #777777;
     line-height: 25px;
+    margin-right: 25px;
 }
 
 .footer {
@@ -102,4 +104,52 @@ input {
 input {
     margin-bottom: 10px;
     margin-top: 10px;
+}
+
+.button {
+    margin-left: 40px;
+    font-size: 24px;
+    background-color: #4aaaa5;
+    cursor: pointer;
+    color: white;
+
+}
+
+/* portfolio page stuff */
+
+.port-images{
+    margin-left: 105px;
+  
+}
+
+#img-2 {
+    margin-left: 20px;
+}
+
+#img-3 {
+    margin-left: 20px;
+}
+
+#img-4 {
+    margin-left: 20px;
+}
+
+#img-5 {
+    margin-top: 10px;
+
+}
+
+#img-6 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#img-7 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#img-8 {
+    margin-top: 10px;
+    margin-left: 20px;
 }
