@@ -1,3 +1,4 @@
+/* index page and common stuff */
 body{ 
     margin: 0;
     background-color: #dddddd;
@@ -29,7 +30,10 @@ body{
     margin-right: 20px;
     margin-top: 25px;
     text-decoration: none;
-    color: grey
+    color: grey;
+}
+
+.navbar a:hover{
 }
 
 .container #bio-image {
@@ -75,3 +79,27 @@ h2 {
     width: 100%;
 }
 
+/* contact form stuff */
+
+input {
+    width: 85%;
+}
+
+#message {
+    height: 200px;
+}
+
+.contact-form {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: grey;
+    margin-left: 70px 
+}
+
+.form-list {
+    list-style-type: none;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
