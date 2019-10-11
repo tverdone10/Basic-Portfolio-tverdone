@@ -19,7 +19,8 @@ body{
 .navbar {
     background-color: #ffffff;
     overflow: hidden;
-    font-family: 'Georgia', 'Times New Roman', Times, serif
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    border-bottom: solid grey 3px
     
 }
 
@@ -79,6 +80,7 @@ h2 {
     bottom: 0;
     height: 40px;
     width: 100%;
+    border-top: solid #4aaaa5 5px;
 }
 
 /* contact form stuff */
@@ -117,10 +119,12 @@ input {
 
 /* portfolio page stuff */
 
+
 .port-images{
     margin-left: 105px;
   
 }
+
 
 #img-2 {
     margin-left: 20px;
